@@ -1,0 +1,8 @@
+{
+  "name": "L'Etoile Boulangerie",
+  "description": "An artisanal full-stack bakery boutique and visual celebratory cake customization platform featuring morning order trackers, breakfast subscriptions, and AI pastry critique consultations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
