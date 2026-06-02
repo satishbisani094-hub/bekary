@@ -1,4 +1,5 @@
 {
+  "name": "bekary",
   "buildCommand": "npm run build",
   "outputDirectory": "dist",
   "installCommand": "npm install",
